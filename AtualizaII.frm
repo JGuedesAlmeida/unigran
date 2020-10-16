@@ -40,8 +40,8 @@ Begin VB.Form AtualizaII
       FOCUSR          =   -1  'True
       BCOL            =   16777215
       BCOLO           =   16777215
-      FCOL            =   0
-      FCOLO           =   0
+      FCOL            =   16711680
+      FCOLO           =   16711680
       MCOL            =   16777215
       MPTR            =   1
       MICON           =   "AtualizaII.frx":0CCA
